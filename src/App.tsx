@@ -17,7 +17,7 @@
         <Header></Header>
         <div className="d-flex flex-grow-1">
           {/* Sidebar ด้านซ้าย */}
-          <Sidebar userName="worachai" type="admin"></Sidebar>
+          <Sidebar userName="worachai" type="student"></Sidebar>
           {/* Main content */}
           <div className="container text-center">
             <main className="flex-grow-1 p-4">

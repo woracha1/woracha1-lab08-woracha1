@@ -26,7 +26,7 @@
               <TaskInput></TaskInput>
               <TaskCard {...Taskcards[0]}/>
               <TaskCard {...Taskcards[1]}/>
-              <TaskCard {...Taskcards[3]}/>
+              <TaskCard {...Taskcards[2]}/>
               </div>
             </main>
           </div>

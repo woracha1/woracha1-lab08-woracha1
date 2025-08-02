@@ -32,7 +32,7 @@
           </div>
         </div>
 
-        <Footer year="2025" fullName="Worachai Thaweetanamongkol" studentId="670610728"></Footer>
+        <Footer year="2026" fullName="Worachai Thaweetanamongkol" studentId="670610728"></Footer>
       </div>
     );
   }
